@@ -176,3 +176,4 @@ function verifyUnique(accountsArray: string[]) {
     );
   }
 }
+}
